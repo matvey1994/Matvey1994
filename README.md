@@ -13,25 +13,7 @@
   </div>
 </div>
 
----
 
-### Languages and Tools :
-</br>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1F4690?style=for-the-badge&logo=css3&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/NPM-16213E?style=for-the-badge&logo=npm&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Webpack-30AADD?style=for-the-badge&logo=webpack&logoColor=white" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FAC213?style=for-the-badge&logo=firebase&logoColor=FF5B00" alt="Portfolio Badge"/>
-</div>
-
----
 
 ### My Stats :
 </br>
@@ -40,14 +22,6 @@
   </br></br>
   <img src="https://www.codewars.com/users/matvey1994/badges/large" alt="Portfolio Badge"/>
 </div>
-
-
-
-
----
-
-### Open Source Projects
-
 
 
 
